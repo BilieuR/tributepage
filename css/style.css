@@ -1,0 +1,37 @@
+/* Tribute page style sheet */
+body {
+    margin-top: 60px;
+}
+
+.flowLeft {
+    float: left;
+    margin-right: 10px;
+}
+
+.thumbnail {
+    width: 710px;
+    height: 580px;
+    overflow: hidden;
+}
+
+.thumbnail img {
+    width: 700px;
+    height: 520px;
+}
+
+#about {
+    float: right;
+    padding-left: 30px;
+}
+
+#heading-class {
+    padding-bottom: 5px;
+}
+
+#time-line {
+    font-size: 30px;
+}
+
+#time-line-list {
+    font-size: 16px;
+}
